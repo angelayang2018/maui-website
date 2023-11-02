@@ -1,0 +1,15 @@
+{
+  "short_name": "Maui Condos",
+  "name": "Maui Condos React App",
+  "icons": [
+    {
+      "src": "beach.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
